@@ -1,5 +1,7 @@
 # math-visual
-Mathematical games and generative art
+Stærðfræðilíkön, leikir og listmyndun
 
-This repository is meant for very small games or artworks to illustrate the use of mathematics.
+Mathematical models, games and generative art
+
+This repository is meant for very small models, games or artworks to illustrate the use of mathematics.
 
